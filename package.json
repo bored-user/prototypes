@@ -1,0 +1,23 @@
+{
+  "name": "prototypes",
+  "version": "1.0.0",
+  "description": "Rewriting JavaScript prototype functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bored-user/prototypes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bored-user/prototypes/issues"
+  },
+  "homepage": "https://github.com/bored-user/prototypes#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}

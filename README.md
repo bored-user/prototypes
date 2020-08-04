@@ -1,2 +1,2 @@
 # prototypes
-Rewritting JavaScript prototype functions.
+Rewriting JavaScript prototype functions.
